@@ -2,7 +2,7 @@ NAME
 
 FULL TRANSCRIPT: Joe Rogan Experience #1309 - Naval Ravikant
 
-
+  
 DATE
 September 27, 2021
 
