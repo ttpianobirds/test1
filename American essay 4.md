@@ -877,7 +877,7 @@ LAZY NED
 
 懒人奈德
 
-
+*******************
 1．"'T is royal(1) fun," cried lazy Ned,
 
 "To coast(2) upon my fine, new sled,
